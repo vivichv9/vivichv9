@@ -1,3 +1,7 @@
+### Hi there 👋, I'm Vlad
+
+![](https://komarev.com/ghpvc/?username=vivichv9)
+
 ![header](https://github.com/vivichv9/vivichv9/blob/main/assets/SizA.gif?raw=true)
 
 ## - 💪 I like to write code
