@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Kirill
+<h1 align="center">Hi there, I'm Kirill 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2000&pause=3000&color=000000&width=700&height=40&lines=Computer+science+student%2C+developer+from+Russia+%F0%9F%87%B7%F0%9F%87%BA" alt="Typing SVG" /></a> </h3>
 
 ![](https://komarev.com/ghpvc/?username=vivichv9)
 
@@ -11,6 +13,8 @@
 ## - 🥅 I am constantly learning new things
 
 ## - 🤹🏽 I like to watch videos on youtube
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivichv9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and tools
 
