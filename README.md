@@ -2,7 +2,12 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2000&pause=3000&color=000000&width=700&height=40&lines=Computer+science+student%2C+developer+from+Russia+%F0%9F%87%B7%F0%9F%87%BA" alt="Typing SVG" /></a> </h3>
 
-![](https://komarev.com/ghpvc/?username=vivichv9)
+<h4 allign="center">
+  <a href="https://vk.com/kirillefimenko"> <img align="left" alt="VK" width="22px" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/vk/vk.png" /> </a>
+  <a href="https://t.me/vivichv9"> <img align="left" alt="My Telegram" width="22px" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/telegram/telegram.png" /> </a>
+</h4>
+<br>
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivichv9&theme=solarized_dark)
 
@@ -29,9 +34,3 @@
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Socials:
-
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/vivichv9)
-[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/vivichv9)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/leanplusadrenaline)
