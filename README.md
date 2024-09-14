@@ -1,36 +1,49 @@
-<h1 align="center">Hi there, I'm Kirill 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2000&pause=3000&color=000000&width=700&height=40&lines=Computer+science+student%2C+developer+from+Russia+%F0%9F%87%B7%F0%9F%87%BA" alt="Typing SVG" /></a> </h3>
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpnamtrMnpqcDd5MnQ4ZDl1a3BoZG5ybjQ4OHZ5YWQ4bjJ6YW95MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="100"/>
+</div>
 
-<h4 allign="center">
-  <a href="https://vk.com/kirillefimenko"> <img align="left" alt="VK" width="22px" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/vk/vk.png" /> </a>
-  <a href="https://t.me/vivichv9"> <img align="left" alt="My Telegram" width="22px" src="https://github.com/github/explore/blob/278a654ebab0a3b0aa27e019477abd7b7cfb8cd3/topics/telegram/telegram.png" /> </a>
-</h4>
-<br>
+<h1 align="center">Hi there, I'm Kirill
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
 
+<div id="badges" align="center">
+  <a href="https://t.me/vivichv9"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Tg Badge"/> 
+  </a>
+  <a href="https://vk.com/kirillefimenko"><img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=vivichv9&style=flat-square&color=blue" alt=""/>
+</div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivichv9&theme=solarized_dark)
+<h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+</h1>
 
-## - 💪 I like to write code
+### :woman_technologist: About Me :
 
-## - 🎉 I love to paint and listen to rap
+#### I am a CS student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-## - 🥅 I am constantly learning new things
+- :telescope: I’m studying as a Data Engineer.
 
-## - 🤹🏽 I like to watch videos on youtube
+- :seedling: Exploring various fields in Data Science.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivichv9&theme=solarized_dark) 
+- :zap: In my free time, I solve problems on Leetcode and read some articles or watch interesting films.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vivichv9)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-### Languages and tools
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala" alt="Scala" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop" alt="Hadoop " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg"  title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kuber" alt="Kuber" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
