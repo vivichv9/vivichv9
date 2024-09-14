@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpnamtrMnpqcDd5MnQ4ZDl1a3BoZG5ybjQ4OHZ5YWQ4bjJ6YW95MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="100"/>
 </div>
-
 <h1 align="center">Hi there, I'm Kirill
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
